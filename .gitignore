@@ -13,7 +13,6 @@ PLATEAU.Sample.csproj
 PLATEAU.TestUtils.csproj
 Packages/
 ProjectSettings/
-README.md
 Temp/
 UserSettings/
 libplateau.csproj
