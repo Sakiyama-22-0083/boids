@@ -1,1 +1,1 @@
-# boids-sample
+# boids
